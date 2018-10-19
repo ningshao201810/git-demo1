@@ -29,6 +29,7 @@ public class User {
     }
     
     public int test() {
-        return 15;
+        System.out.println("这是dev2分支做的修改");
+        return 14;
     }
 }
