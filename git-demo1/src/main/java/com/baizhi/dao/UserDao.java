@@ -6,4 +6,6 @@ import java.util.List;
 
 public interface UserDao {
     public List<User> query();
+
+    public List<User> query22();
 }
